@@ -264,7 +264,7 @@ nav a.active {
 
 /* ===== SCROLL REVEAL ===== */
 .reveal {
-  opacity: 0;
+  opacity: 1;
   transform: translateY(40px);
   transition: 0.8s ease;
 }
@@ -659,4 +659,5 @@ body.dark .particle {
     left: 0 !important;
   }
 }
+
 
