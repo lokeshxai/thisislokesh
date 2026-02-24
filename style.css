@@ -659,5 +659,10 @@ body.dark .particle {
     left: 0 !important;
   }
 }
+section {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
 
 
