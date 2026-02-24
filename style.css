@@ -620,7 +620,16 @@ body.dark .particle {
 
 
 
-
+.navbar,
+.card,
+.project-card,
+.tech-card,
+.contact-info,
+.timeline-content,
+.about-text,
+.skills-section {
+    background: var(--card-bg);
+}
 
 
 
@@ -665,6 +674,7 @@ section {
   opacity: 1 !important;
   visibility: visible !important;
 }
+
 
 
 
